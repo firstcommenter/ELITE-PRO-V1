@@ -16,7 +16,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2348109263390"
+      "value": "2349132095836"
     },
     "OWNER_NAME": {
       "description": "Owner's display name.",
@@ -56,7 +56,7 @@
     },
     "WELCOME": {
       "description": "Enable group welcome message.",
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Enable automatic reactions to messages.",
